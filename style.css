@@ -1,0 +1,39 @@
+body {
+    background: #ddd8d8;
+    font-family:  sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  .container{
+   border: 7px solid black ;
+    border-style: double ;
+    padding: 25px;
+    width: 100%;
+    position: absolute;
+
+  }
+  h2,p {
+    text-align: center;
+    
+  }
+  .common{
+    border: 2px solid black;
+    width: 80%;
+  
+  }
+  #left {  
+    text-align: left;
+    margin: 30px;
+    } 
+.right{
+    float: right;
+    margin-top: 100px;
+    
+    
+    /* text-align: justify; */
+}
+.form{
+    margin-bottom: 80px;
+    padding: 10px;
+}
+  
